@@ -6,9 +6,9 @@ PESU-Cafe is a web application designed to provide information on the menu, prod
 <hr>
 <h2>Installation and Execution</h2>
 <h6>Clone the repository:</h6>
-git clone https://github.com/anubhav1433/PESU-Cafe
+git clone https://github.com/1VIP1786/Cafehouse-WeBApp.git
 <h6>Navigate to the project directory:</h6>
-cd PESU-Cafe
+cd Cafehouse-WeBApp
 <h6>Install dependencies:</h6>
 npm i
 <h6>Run the server:</h6>
