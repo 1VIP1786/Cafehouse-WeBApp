@@ -9,7 +9,7 @@ app.use(express.urlencoded())
 app.use(cors())
 
 mongoose.connect(process.env.DB_URL, {
-    useNewUrlParser: true,
+    useNewUrlParser: true,     //hello wrols 
     useUnifiedTopology: true
 }, () => {
     console.log("DB connected")
